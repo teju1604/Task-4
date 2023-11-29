@@ -2,7 +2,8 @@
 
 As a part of my Internship, I've devloped 3 tasks which are as follows :
 
-**Task 1: TO-DO-LIST :**                        
+**Task 1: TO-DO-LIST :**   
+
 A To-Do-List application is a useful project that helps users manage and organize their tasks efficiently. This task aims to create a GUI-based application using Python, allowing users to create, update, and track their to-do lists.
 
 
